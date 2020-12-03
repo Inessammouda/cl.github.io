@@ -13,7 +13,7 @@ languages:
 
 params:
   # Background image of the landing page
-  background: /images/site/<background.jpg>
+  background: static/images/site/background.jpg
 # Control TOC depth
 markup:
   tableOfContents:
